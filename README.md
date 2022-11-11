@@ -1,2 +1,5 @@
-# End-to-End-NLP-Project-Sentence-similarity-matching
-End to End NLP Project on topic Sentence similarity matching
+## This repository includes Natural Languauge Processing (NLP) projects with End to End implementation
+
+### List of projects is as follows:
+
+1. Sentence similarity matching
