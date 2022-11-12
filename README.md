@@ -1,4 +1,4 @@
-## This repository includes Natural Languauge Processing (NLP) projects with End to End implementation
+## This repository includes Natural Languauge Processing (NLP) projects with End to End implementation  
 
 ### List of projects is as follows:
 
